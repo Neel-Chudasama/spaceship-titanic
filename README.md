@@ -2,6 +2,13 @@
 
 Hello ! 
 
+The Repository contains :   
+capstone_utils - Utils python file containing functions
+codes_for_test - Jupyter Notebook containing all the code for my model 
+test.csv - Test data which I will test my model on
+train.csv - Training data I will train my model on 
+sample_submission.csv - The final format my predictions need to be in
+
 ![image](https://github.com/user-attachments/assets/99708a45-2365-4916-82be-ffc6794feab0)
 
 **Title**  
