@@ -4,7 +4,7 @@ Hello !
 
 ![image](https://github.com/user-attachments/assets/99708a45-2365-4916-82be-ffc6794feab0)
 
-**Title**
+**Title**  
 Predicting Spaceship Titanic Passenger's Transport with Machine Learning
 
 Welcome to the year 2912, where your data science skills are needed to solve a cosmic mystery. We've received a transmission from four lightyears away and things aren't looking good.
@@ -15,12 +15,12 @@ While rounding Alpha Centauri en route to its first destination—the torrid 55 
 
 To help rescue crews and retrieve the lost passengers, I am challenged to predict which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system.
 
-**Objective**
+**Objective**   
 The objective of this project is to build a machine learning model that can accurately predict passenger Transport based on various features such as age, gender, class, fare, etc.
 
 In this notebook, I will conduct a Binary Classification on the Titanic Spaceship Dataset (which can be found here: https://www.kaggle.com/competitions/spaceship-titanic/data) to predict whether a person will be transported to an alternative dimension or not.
 
-**Conclusion**
+**Conclusion**   
 There were a few very few useful features in the dataset which helped the model with its predictions.
 
 With the data given, I was able to glean out new information and features that I feel were very useful for the model in its predictions.
